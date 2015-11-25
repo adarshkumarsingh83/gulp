@@ -1,0 +1,5 @@
+> npm install --global gulp
+> npm install --save-dev gulp-connect
+> npm install --save-dev gulp-less. 
+for executing the applcation 
+> gulp 
